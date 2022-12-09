@@ -5,7 +5,6 @@ validations. In progress...***
 
 ***Persisting data in Mongo DB(Mongo DB Compass shown here in image which is a GUI) after submitting data from form along with validation***
 
-![image](https://user-images.githubusercontent.com/81863474/206765782-6c0d3651-99e2-4e68-8f5d-ef72749f6007.png)
 
 ![Screenshot (614)](https://user-images.githubusercontent.com/81863474/206766150-7bf38aa3-c3ff-4be0-86cd-15b247c0baf3.png)
 
