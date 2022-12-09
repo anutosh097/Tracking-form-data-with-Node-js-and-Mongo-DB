@@ -3,6 +3,8 @@
 ***A simple app for submitting form data and persisiting it in Mongo DB using mongo shell and mongo Compass {a GUI}, along with express js for routing, middlewares and 
 validations. Views are added with pug templating{jade engine}, and validation of form data added along with addition of schema with mongoose ORM which is generally used along with Mongo DB. In progress...***
 
+***Time lapse of the progress while developing***
+
 ***Persisting data in Mongo DB(Mongo DB Compass shown here in image which is a GUI) after submitting data from form along with validation. POSTING form data and persisting in Mongo DB***
 
 
@@ -21,6 +23,11 @@ validations. Views are added with pug templating{jade engine}, and validation of
 ![Screenshot (617)](https://user-images.githubusercontent.com/81863474/206767765-db517416-f7a7-4ee9-b59c-b81248c049ea.png)
 
 ![Screenshot (618)](https://user-images.githubusercontent.com/81863474/206767768-cd84f4d6-1279-44d8-a333-0ac69f2fb38e.png)
+
+***Schema***
+
+
+![Screenshot (620)](https://user-images.githubusercontent.com/81863474/206768592-6edf83f9-dbbc-4954-b139-b33b435e97c6.png)
 
 
 
