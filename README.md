@@ -14,12 +14,13 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 ***Multiple form submissions allowing persistence of multiple form data in Mongo DB***
 
+![Screenshot (615)](https://user-images.githubusercontent.com/81863474/206767769-246d1b49-1842-4a28-8904-f5519ce4b20b.png)
+
 ![Screenshot (616)](https://user-images.githubusercontent.com/81863474/206767758-fa36ecbd-94c4-47ca-a95a-ac03b0262c4f.png)
 
 ![Screenshot (617)](https://user-images.githubusercontent.com/81863474/206767765-db517416-f7a7-4ee9-b59c-b81248c049ea.png)
 
 ![Screenshot (618)](https://user-images.githubusercontent.com/81863474/206767768-cd84f4d6-1279-44d8-a333-0ac69f2fb38e.png)
 
-![Screenshot (615)](https://user-images.githubusercontent.com/81863474/206767769-246d1b49-1842-4a28-8904-f5519ce4b20b.png)
 
 
