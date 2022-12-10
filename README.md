@@ -33,6 +33,13 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 ![image](https://user-images.githubusercontent.com/81863474/206831450-883d8ce5-8733-4f1a-b25b-c4128bd81c2e.png)
 
+***Adding http authentication for viewing list of people who have registered with username and password***
+
+![image](https://user-images.githubusercontent.com/81863474/206838100-72fbc2e3-dad2-4634-bc84-f98b70b874a8.png)
+
+![Screenshot (628)](https://user-images.githubusercontent.com/81863474/206838124-ab93e8d1-8224-4761-a8ad-513f8a86d35d.png)
+
+
 
 
 
