@@ -29,5 +29,10 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 ![Screenshot (620)](https://user-images.githubusercontent.com/81863474/206768592-6edf83f9-dbbc-4954-b139-b33b435e97c6.png)
 
+***Listing form data from database into views***
+
+![image](https://user-images.githubusercontent.com/81863474/206831450-883d8ce5-8733-4f1a-b25b-c4128bd81c2e.png)
+
+
 
 
