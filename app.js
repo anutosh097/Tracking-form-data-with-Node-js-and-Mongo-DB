@@ -10,6 +10,7 @@ app.set('view engine', 'pug');
 app.use(bodyParser.json()) // for parsing application/json
 app.use(bodyParser.urlencoded({ extended: true
 }));
+app.use(express.static('public'));
 app.use('/', routes);
 
 module.exports = app;
