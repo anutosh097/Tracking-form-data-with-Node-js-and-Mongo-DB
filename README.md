@@ -41,7 +41,20 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 ![Screenshot (628)](https://user-images.githubusercontent.com/81863474/206838124-ab93e8d1-8224-4761-a8ad-513f8a86d35d.png)
 
+***Final picture and workflow of the app***
 
+
+![Screenshot (635)](https://user-images.githubusercontent.com/81863474/206846419-09198c7c-230d-4716-b0ee-3268f79b7fab.png)
+
+![Screenshot (636)](https://user-images.githubusercontent.com/81863474/206846340-cbd00655-e0d6-462a-86d1-bee770cabe8e.png)
+
+![Screenshot (637)](https://user-images.githubusercontent.com/81863474/206846351-8919e9b1-01ce-4ee6-b5c8-00fd47023899.png)
+
+![Screenshot (638)](https://user-images.githubusercontent.com/81863474/206846354-a52e23ee-31b2-4cae-a4b6-2b6bb54743d7.png)
+
+![Screenshot (639)](https://user-images.githubusercontent.com/81863474/206846357-d434f5c3-8b23-454d-8a24-4dc68861cac1.png)
+
+![Screenshot (640)](https://user-images.githubusercontent.com/81863474/206846362-e7af4340-a400-4a65-9166-372f3e0347c7.png)
 
 
 
