@@ -1,7 +1,7 @@
 # Tracking form data with Node js and Mongo DB
 
 ***A simple app for submitting form data and persisiting it in Mongo DB using mongo shell and mongo Compass {a GUI}, along with express js for routing, middlewares and 
-validations. Views are added with pug templating{jade engine}, and validation of form data added along with addition of schema with mongoose ORM which is generally used along with Mongo DB. In progress...***
+validations. Views are added with pug templating{jade engine}, and validation of form data added along with addition of schema with mongoose,an ORM{Object Relational Mapping} tool which is generally used along with Mongo DB. In progress...***
 
 ## Time lapse of the progress while developing ##
 
