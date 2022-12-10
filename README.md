@@ -8,6 +8,12 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 https://user-images.githubusercontent.com/81863474/206849529-932ae4b4-68d6-471c-8147-4337c7d8dbe9.mp4
 
+## Validation of form data ##
+
+
+https://user-images.githubusercontent.com/81863474/206854858-feef43c9-2014-4b93-a5d3-f69fe60f2c66.mp4
+
+
 
 ## Time lapse of the progress while developing ##
 
