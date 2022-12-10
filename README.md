@@ -41,8 +41,9 @@ validations. Views are added with pug templating{jade engine}, and validation of
 
 ![Screenshot (628)](https://user-images.githubusercontent.com/81863474/206838124-ab93e8d1-8224-4761-a8ad-513f8a86d35d.png)
 
-***Final picture and workflow of the app***
 
+
+***Final picture and workflow of the app***
 
 ![Screenshot (635)](https://user-images.githubusercontent.com/81863474/206846419-09198c7c-230d-4716-b0ee-3268f79b7fab.png)
 
